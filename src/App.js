@@ -27,12 +27,6 @@ class App extends Component {
         title:'Third todo',
         completed: true
 
-      },
-      {
-        id:uuid.v4(),
-        title:'Fourth todo',
-        completed: false
-
       }
     ]
   }
